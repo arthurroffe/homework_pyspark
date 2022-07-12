@@ -156,16 +156,3 @@ f2.write(json_new_taipei)
 f2.write(json_taoyuan)
 f2.close()
 
-
-
-# In[136]:
-
-
-get_ipython().system('jupyter nbconvert -- to script hw3.ipynb')
-
-
-# In[ ]:
-
-
-get_ipython().system('jupyter nbconvert — to script hw3.ipynb')
-
